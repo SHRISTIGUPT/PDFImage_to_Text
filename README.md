@@ -32,7 +32,11 @@ If processing a PDF file, the extracted text will be saved to a Word document in
 
 ### Interface
 ![image](https://github.com/SHRISTIGUPT/PDFImage_to_Text/assets/91000887/fe01f81e-d672-4cf2-913d-6e8f515c2803)
+
 ![image](https://github.com/SHRISTIGUPT/PDFImage_to_Text/assets/91000887/24de6458-cc28-4702-a1e6-6650f9d83410)
+
 ![image](https://github.com/SHRISTIGUPT/PDFImage_to_Text/assets/91000887/d36fd68c-1a0b-4cbf-98e6-eb34a9aacdb9)
+
 ![image](https://github.com/SHRISTIGUPT/PDFImage_to_Text/assets/91000887/3efce529-b265-4e97-9809-b2b10d5a6250)
+
 ![image](https://github.com/SHRISTIGUPT/PDFImage_to_Text/assets/91000887/6216d337-f005-425c-ba14-c2a1a50d7958)
